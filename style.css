@@ -1,0 +1,25 @@
+/* body{
+    background-image: url(mss.jpg);
+    background-repeat: repeat;
+} */
+
+#counter {
+
+    text-align: centre;
+    color: green;
+    font-size: 3em;
+    margin: -35px 0 0;
+}
+
+.welcome{
+    text-align: center;
+    color: red;
+}
+
+.gtg{
+    text-align: center;
+}
+
+.dark{
+    background-image: url(gtg.jpeg);
+}
